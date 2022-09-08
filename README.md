@@ -4,13 +4,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://t.me/terillen">
+  <a href="https://t.me/terillen" _target="blank">
     <img src="https://img.shields.io/badge/@terillen-blue?style=flatl&logo=telegram&labelColor=F1F1F1&color=2D2D2D"/>
   </a>
-  <a href="https://github.com/SilentiumN">
+  <a href="https://github.com/SilentiumN" _target="blank">
     <img src="https://img.shields.io/badge/-SilentiumN-blue?style=flat&logo=github&labelColor=67178E&color=2D2D2D"/>
   </a>
-  <a href="https://hh.ru/resume/140d65bfff09c3617c0039ed1f464873473666?from=share_ios">
+  <a href="https://hh.ru/resume/140d65bfff09c3617c0039ed1f464873473666?from=share_ios" _target="blank">
     <img src="https://img.shields.io/badge/hh-Morozova Anastasiia-blue?style=flatl&labelColor=CA0017&color=2D2D2D"/>
   </a>
 </div>
